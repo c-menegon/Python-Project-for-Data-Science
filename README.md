@@ -1,2 +1,2 @@
-# Python-Project-for-Data-Science
-This is the final project for the course Python Project for Data Science by IBM on Coursera.
+# Python Project for Data Science
+This is the final project for the Python Project for Data Science course by IBM on Coursera.
